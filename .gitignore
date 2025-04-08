@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore secrets
+.streamlit/secrets.toml
+
+# Ignore OS or IDE files
+.DS_Store
+.env
+
 # C extensions
 *.so
 
