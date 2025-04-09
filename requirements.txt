@@ -1,6 +1,0 @@
-streamlit
-gTTS
-SpeechRecognition
-schedule
-smtplib
-googlesearch-python
